@@ -1,0 +1,16 @@
+import = [
+  "~/.config/alacritty/themes/themes/nord.toml"
+]
+
+[ env ]
+TERM = "xterm-256color"
+
+[window]
+padding.x = 10
+padding.y = 10
+opacity = 0.6
+
+[font]
+normal.family = "FiraCode Nerd Font Mono"
+
+size = 10.2
